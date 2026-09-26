@@ -214,6 +214,15 @@ button {
     linear-gradient(180deg, #dce1df 0%, #aebec9 45%, #66788b 46%, #445565 72%, #293641 100%);
 }
 
+.hero-photo img
+{
+width: 100%;
+height: 100%;
+display: block;
+object-fit: cover;
+object-position: center top;
+}
+
 .hero-photo::before {
   content: "";
   position: absolute;
@@ -1005,6 +1014,13 @@ button {
     width: 100%;
     height: 304px;
   }
+
+   .hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+   }
 
   .work-grid {
     flex-direction: column;
