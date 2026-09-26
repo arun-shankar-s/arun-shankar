@@ -543,7 +543,7 @@ rel="noopener noreferrer"
       </div>
 <div className="contact-links">
 <div className="contact-link">✉ <a href="mailto:arunshankar1221@gmail.com">arunshankar1221@gmail.com</a></div>
-<div className="contact-link">in <a href="https://www.linkedin.com/in/arun-shankar-s" target="_blank" rel="noopener noreferrer">linkedin.com/in/arun-shankar-s</a></div>
+<div className="contact-link">in <a href="https://www.linkedin.com/in/arun-shankar1221" target="_blank" rel="noopener noreferrer">linkedin.com/in/arun-shankar-s</a></div>
 <div className="contact-link">◉ <a href="https://github.com/arun-shankar-s" target="_blank" rel="noopener noreferrer">github.com/arun-shankar-s</a></div>
 </div>
 {/* <div className="contact-note">
